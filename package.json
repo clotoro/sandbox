@@ -1,0 +1,27 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "sandbox for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clotoro/sandbox.git"
+  },
+  "keywords": [
+    "sandbox"
+  ],
+  "author": "chloe isla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clotoro/sandbox/issues"
+  },
+  "homepage": "https://github.com/clotoro/sandbox#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  }
+}
