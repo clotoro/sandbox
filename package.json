@@ -1,0 +1,15 @@
+{
+  "name": "sandbox",
+  "version": "1.0",
+  "description": "dev sandbox",
+  "main": "index.js",
+  "repository": "https://github.com/clotoro/sandbox.git",
+  "author": "Chloe Isla <chloe.i.cameron@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.16.0"
+  }
+}
